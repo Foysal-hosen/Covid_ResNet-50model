@@ -1,0 +1,1 @@
+# Covid_ResNet-50model
